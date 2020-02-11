@@ -1,0 +1,5 @@
+node_modules
+bower_components
+vendor
+css/*.min.css
+js/*.min.js
